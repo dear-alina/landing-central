@@ -1,0 +1,6 @@
+{
+  "name": "CENTRAL - Transporte Logística y Paquetería",
+  "description": "Plataforma web oficial de Central Transporte Logística y Paquetería con cotizador en tiempo real, rastreo de envíos, red de agencias y rutas regionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
